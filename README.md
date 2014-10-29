@@ -6,7 +6,7 @@ Realiza busca no site guiamais.com.br.
 Exemplo:
 
 ```
-var GuiaMais = require('guia_ais');
+var GuiaMais = require('guia_mais');
 
 GuiaMais.buscar('pizza', function(resultados) {
     console.log(JSON.stringify(resultados));
