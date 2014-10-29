@@ -1,0 +1,19 @@
+{
+  "name": "guia_mais",
+  "version": "0.0.1",
+  "description": "Guia Mais",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit test/tests.js"
+  },
+  "author": "Claudemiro Alves Feitosa Neto <dimiro1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "random-ua": "0.0.6",
+    "request": "^2.47.0"
+  },
+  "devDependencies": {
+    "nodeunit": "^0.9.0"
+  }
+}
